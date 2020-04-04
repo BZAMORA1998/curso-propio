@@ -1,0 +1,6 @@
+clientews\servicio\ObjectFactory.class
+clientews\servicio\ServicioSumarWS.class
+clientews\servicio\package-info.class
+clientews\servicio\ServicioSumarImplService.class
+clientews\servicio\SumarResponse.class
+clientews\servicio\Sumar.class
